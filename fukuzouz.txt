@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 自己紹介
 Fukuzouz
 好きな食べ物：十割そば
+=======
+test
+
+Cui
+
+add
+>>>>>>> 58f4a73af72d46e7dab7040bbf6e3df3fd17e48e
